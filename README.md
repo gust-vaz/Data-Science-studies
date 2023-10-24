@@ -22,6 +22,12 @@ Machine learning implementations from scratch, use of frameworks and other data 
    - Keras TensorFlow
    - Search for good hyperparameter
 
+5) `Time Series Forecasting`
+   - Store sales
+   - Function decomposition (trend and seasonality)
+   - Data pre-processing
+   - statsmodel module
+
 <br />
 
 __References__: 
@@ -30,3 +36,5 @@ Y. S. Abu-Mostafa, M. Magdon-Ismail, and H.-T. Lin. Learning From Data. AMLBook,
 2012.
 
 Geron, Aurelien. (2017). Hands-On Machine Learning with Scikit-Learn & TensorFlow
+
+Time series course available on https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series
